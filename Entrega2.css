@@ -10,3 +10,14 @@ p {
 div {
     background-color: #15202b;
 }
+
+.icone {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.imagem {
+    height: 315px;
+    width: 600px;
+}

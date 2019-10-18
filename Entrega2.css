@@ -5,7 +5,7 @@ p {
 
 .quem_retweetou {
     color: rgba(101, 119, 134, 1);
-    margin-left: 6px;
+    margin-left: 10px;
 }
 
 body {
@@ -42,7 +42,7 @@ body {
     height: 18.75px;
     width: 15px;
     margin-top: 18px;
-    margin-left: 38px;
+    margin-left: 35px;
 }
 
 .div1 {
@@ -69,4 +69,15 @@ body {
 .paragrafo2{
     margin-left: 60px;
     margin-top: -27px;
+}
+
+.icones_bottom svg{
+    height: 18.75px;
+    width: 18.75px;
+    margin-left: 135.417px;
+    margin-top: 17.6px;
+}
+
+.div_de_ajuste{
+    margin-left: -75.417px;
 }

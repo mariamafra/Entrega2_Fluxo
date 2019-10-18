@@ -3,11 +3,12 @@ p {
     color: white;
 }
 
-.usuario {
+.quem_retweetou {
     color: rgba(101, 119, 134, 1);
+    margin-left: 6px;
 }
 
-div {
+body {
     background-color: #15202b;
 }
 
@@ -22,10 +23,10 @@ div {
     width: 600px;
     margin-left: 60px;
     margin-top: 25px;
-    border-radius: 10px;
+    border-radius: 14px;
 }
 
-.div1 {
+.div2 {
     display: flex;
     flex-direction: row;
 }
@@ -35,8 +36,23 @@ div {
     margin-top: -15px;
 }
 
-.retweet{
+.icone_retweet{
     fill: rgba(136, 153, 166, 1);
     height: 18.75px;
     width: 15px;
+    margin-top: 18px;
+    margin-left: 38px;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.icone_seta{
+    fill: rgba(136, 153, 166, 1);
+    height: 18.75px;
+    width: 15px;
+    margin-top: 5px;
+    margin-left: 250px;
 }
